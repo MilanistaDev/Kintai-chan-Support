@@ -36,11 +36,19 @@ I remaked for watchOS 7 and later. Of course I use SwiftUI 2.0.
 
 [https://qiita.com/MilanistaDev/items/dbc4d2c2cc4522f12972](https://qiita.com/MilanistaDev/items/dbc4d2c2cc4522f12972)
 
-## Support
+## Support OS
 
 * watchOS 7.0 and later
 
 > You need an iOS 13 or higher iPad or iPhone paired with your Apple Watch to input the information needed to post Slack.
+
+## Support Devices
+
+* Apple Watch Series 3
+* Apple Watch Series 4
+* Apple Watch Series 5
+* Apple Watch SE
+* Apple Watch Series 6
 
 ## How to use
 
