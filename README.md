@@ -3,13 +3,15 @@ Support Page of Kintai-chan App. 勤怠ちゃんアプリのサポートペー�
 
 Japanese description is under English.  
 日本語の記述は英語の次にあります。  
-Last update: July 26, 2021
+Last update: July 31, 2021
+
+　　<img src="https://user-images.githubusercontent.com/8732417/127726905-7c6fa973-8f36-4694-96f1-498110dfc35a.png" width="150">
 
 ## App update history
 
 |App Version|Date|MEMO|
 |:--:|:--:|:--|
-|1.0.0|2021-08|v1.0.0 released.|
+|1.0.0|July 31, 2021|v1.0.0 released.|
 
 ## Overview of this app
 
@@ -36,9 +38,14 @@ I remaked for watchOS 7 and later. Of course I use SwiftUI 2.0.
 
 [https://qiita.com/MilanistaDev/items/dbc4d2c2cc4522f12972](https://qiita.com/MilanistaDev/items/dbc4d2c2cc4522f12972)
 
+## Support Languages
+
+* English - 英語
+* Japanese - 日本語
+
 ## Support OS
 
-* watchOS 7.0 and later
+* watchOS 7.0 and later - watchOS 7 以降
 
 > You need an iOS 13 or higher iPad or iPhone paired with your Apple Watch to input the information needed to post Slack.
 
