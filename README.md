@@ -5,7 +5,7 @@ Japanese description is under English.
 日本語の記述は英語の次にあります。  
 Last update: July 31, 2021
 
-　　　 　　<img src="https://user-images.githubusercontent.com/8732417/127726905-7c6fa973-8f36-4694-96f1-498110dfc35a.png" width="150">
+　　　 <img src="https://user-images.githubusercontent.com/8732417/127726905-7c6fa973-8f36-4694-96f1-498110dfc35a.png" width="150">
 <BR>
 <BR>
 <a href="https://apps.apple.com/jp/app/%E5%8B%A4%E6%80%A0%E3%81%A1%E3%82%83%E3%82%93/id1577214020?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 150px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1627603200&h=72b0c8495c2c0af1291efef280c4c2c1" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 150px; height: 60px;"></a>
