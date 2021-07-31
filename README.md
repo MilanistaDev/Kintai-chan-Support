@@ -5,30 +5,17 @@ Japanese description is under English.
 日本語の記述は英語の次にあります。  
 Last update: July 31, 2021
 
-　　<img src="https://user-images.githubusercontent.com/8732417/127726905-7c6fa973-8f36-4694-96f1-498110dfc35a.png" width="150">
+　　　 　　<img src="https://user-images.githubusercontent.com/8732417/127726905-7c6fa973-8f36-4694-96f1-498110dfc35a.png" width="150">
+<BR>
+<BR>
+<a href="https://apps.apple.com/jp/app/%E5%8B%A4%E6%80%A0%E3%81%A1%E3%82%83%E3%82%93/id1577214020?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 150px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1627603200&h=72b0c8495c2c0af1291efef280c4c2c1" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 150px; height: 60px;"></a>
+<a href="https://apps.apple.com/jp/app/%E5%8B%A4%E6%80%A0%E3%81%A1%E3%82%83%E3%82%93/id1577214020?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 150px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ja-jp?size=250x83&amp;releaseDate=1627603200&h=67f860c8a4424c97a47065fb78d09e10" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 150px; height: 60px;"></a>
 
 ## App update history
 
 |App Version|Date|MEMO|
 |:--:|:--:|:--|
 |1.0.0|July 31, 2021|v1.0.0 released.|
-
-## Overview of this app
-
-Make attendance contact smart with Apple Watch.  
-Opening the app on your PC or smartphone and  
-contacting attendance is surprisingly troublesome.  
-
-With this app, you can make smart attendance notifications  
-with just a few taps on the screen of your Apple Watch.  
-Register the Slack post settings and each attendance word in advance,  
-and tap the corresponding cell from the list to complete the post.  
-
-It may be possible to use it as a to-do list for housework and share it with your family.
-
-This app is a Watch app written in Swift and SwiftUI.   
-
-![KintaichanAppMovie_EN](https://user-images.githubusercontent.com/8732417/126958053-c9b265ae-1391-4b6f-b8b0-9991c72235e1.gif)
 
 ## Commentary article
 
@@ -56,6 +43,25 @@ I remaked for watchOS 7 and later. Of course I use SwiftUI 2.0.
 * Apple Watch Series 5
 * Apple Watch SE
 * Apple Watch Series 6
+
+---
+
+## Overview of this app
+
+Make attendance contact smart with Apple Watch.  
+Opening the app on your PC or smartphone and  
+contacting attendance is surprisingly troublesome.  
+
+With this app, you can make smart attendance notifications  
+with just a few taps on the screen of your Apple Watch.  
+Register the Slack post settings and each attendance word in advance,  
+and tap the corresponding cell from the list to complete the post.  
+
+It may be possible to use it as a to-do list for housework and share it with your family.
+
+This app is a Watch app written in Swift and SwiftUI.   
+
+![KintaichanAppMovie_EN](https://user-images.githubusercontent.com/8732417/126958053-c9b265ae-1391-4b6f-b8b0-9991c72235e1.gif)
 
 ## How to use
 
