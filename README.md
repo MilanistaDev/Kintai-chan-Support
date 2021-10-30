@@ -3,7 +3,7 @@ Support Page of Kintai-chan App. 勤怠ちゃんアプリのサポートペー�
 
 Japanese description is under English.  
 日本語の記述は英語の次にあります。  
-Last update: July 31, 2021
+Last update: Oct 31, 2021
 
 　　　 <img src="https://user-images.githubusercontent.com/8732417/127726905-7c6fa973-8f36-4694-96f1-498110dfc35a.png" width="150">
 <BR>
@@ -15,7 +15,8 @@ Last update: July 31, 2021
 
 |App Version|Date|MEMO|
 |:--:|:--:|:--|
-|1.0.0|July 31, 2021|v1.0.0 released.|
+|1.0.0|July 31, 2021|v1.0.0 has been released.|
+|1.0.1|Oct 31, 2021|・watchOS 8 Support<BR>・Fixed the app crashing when registering / editing.|
 
 ## Commentary article
 
@@ -43,6 +44,7 @@ I remaked for watchOS 7 and later. Of course I use SwiftUI 2.0.
 * Apple Watch Series 5
 * Apple Watch SE
 * Apple Watch Series 6
+* Apple Watch Series 
 
 ---
 
