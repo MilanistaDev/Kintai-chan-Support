@@ -3,7 +3,7 @@ Support Page of Kintai-chan App. 勤怠ちゃんアプリのサポートペー�
 
 Japanese description is under English.  
 日本語の記述は英語の次にあります。  
-Last update: April 08, 2022
+Last update: October 22, 2022
 
 　　　 <img src="https://user-images.githubusercontent.com/8732417/127726905-7c6fa973-8f36-4694-96f1-498110dfc35a.png" width="150">
 <BR>
@@ -18,6 +18,7 @@ Last update: April 08, 2022
 |1.0.0|Jul 31, 2021|v1.0.0 has been released.|
 |1.0.1|Oct 31, 2021|・watchOS 8 Support<BR>・Fixed the app crashing when registering / editing.|
 |1.0.2|Apr 08, 2022|Minor revision|
+|1.0.3|Oct 22, 2022|・watchOS 9 Support<BR>・Multi-Post available<BR>・Fixed list not showing on watchOS 7 devices.|
 
 ## Commentary article
 
@@ -45,7 +46,9 @@ I remaked for watchOS 7 and later. Of course I use SwiftUI 2.0.
 * Apple Watch Series 5
 * Apple Watch SE
 * Apple Watch Series 6
-* Apple Watch Series 
+* Apple Watch Series 7
+* Apple Watch Series 8
+* Apple Watch Ultra
 
 ---
 
@@ -60,7 +63,9 @@ with just a few taps on the screen of your Apple Watch.
 Register the Slack post settings and each attendance word in advance,  
 and tap the corresponding cell from the list to complete the post.  
 
-It may be possible to use it as a to-do list for housework and share it with your family.
+It may be possible to use it as a to-do list for housework and share it with your family.  
+
+From `v1.0.3`, it is possible to post to multiple Slack channels.
 
 This app is a Watch app written in Swift and SwiftUI.   
 
@@ -95,6 +100,20 @@ Your favorite color is reflected in the color of the Attachment bar. If there is
 Enter each value on the paired iPhone. Copy and paste is also possible.
 
 <img src="https://user-images.githubusercontent.com/8732417/126945890-fa3a3032-158e-4c29-aab5-80740a043055.png" width="300">
+
+### Multi-Post
+
+From `v1.0.3`, it is possible to post to multiple Slack channels.  
+On the "Slack settings" screen, turn on the "Enable multi-post" switch,  
+Enter the link of the channel you want to post in the "Webhook URL 2" field.  
+
+|Turn on the switch|Enter Webhook URL 2 field|
+|:--:|:--:|
+|![Simulator Screen Shot - Apple Watch Series 8 (45mm) - 2022-10-22 at 04 31 25](https://user-images.githubusercontent.com/8732417/197275161-e8947695-c44a-420b-8da4-fd8c916102c4.png)|![Simulator Screen Shot - Apple Watch Series 8 (45mm) - 2022-10-22 at 04 31 30](https://user-images.githubusercontent.com/8732417/197275165-f9759f61-7ebe-41c9-8a57-0689bc800479.png)|
+
+Multi-post will be disabled if not entered.  
+Please turn off the switch if you do not multi-post.  
+Entered link are not deleted.(No need to re-enter)  
 
 ### Supplement
 
@@ -145,7 +164,8 @@ Slackの勤怠連絡を手首で完結。
 PCやスマホでアプリを開いて勤怠連絡をするのは意外と手間で億劫です。  
 このアプリでは，Apple Watchの画面を数回タップするだけでスマートに勤怠連絡ができます。事前にSlack投稿の設定と各勤怠のワードを登録しておいて，リストから該当のセルをタップするだけ投稿完了です。
 
-家事などのやることリストとして使って家族にシェアするみたいな使い方も可能かもしれません。
+家事などのやることリストとして使って家族にシェアするみたいな使い方も可能かもしれません。  
+`v1.0.3` より Slack の複数チャネルへの投稿が利用可能になりました。
 
 ![KintaichanAppMovie](https://user-images.githubusercontent.com/8732417/126958044-b1de1545-d1b4-4516-a3c4-e83ac38f6ce2.gif)
 
@@ -184,6 +204,21 @@ Slack投稿に必要な情報はWebhook URLとGitHubアカウントです。Webh
 Slack WebhookのURLは、次のリンクから取得できます。  
 
 [https://slack.com/services/new/incoming-webhook](https://slack.com/services/new/incoming-webhook)
+
+### 複数チャネルへの投稿
+
+`v1.0.3` より Slack の複数チャネルへの投稿が利用可能になりました。  
+「Slack設定」画面で，「複数投稿を利用」のスイッチをオンにして，  
+「Webhook URL 2」の項目に投稿したいチャネルのリンクを入力してください。  
+
+|複数投稿を利用のスイッチをオンに|Webhook URL 2に入力|
+|:--:|:--:|
+|![Simulator Screen Shot - Apple Watch Series 8 (45mm) - 2022-10-22 at 04 14 20](https://user-images.githubusercontent.com/8732417/197274100-ae5468d1-8c12-43b0-a03c-c794122f0e08.png)|![Simulator Screen Shot - Apple Watch Series 8 (45mm) - 2022-10-22 at 04 14 26](https://user-images.githubusercontent.com/8732417/197274107-13220550-ed6a-438a-abaf-f3416102df6f.png)|
+
+スイッチをオンにしても未入力の場合は，  
+複数投稿は無効になり「Webhook URL」のチャネルのみに投稿されます。  
+複数投稿しない場合はスイッチをオフにしてください。  
+その際入力されたリンクは削除されません(再入力は不要です)。  
 
 ## 投稿設定
 
