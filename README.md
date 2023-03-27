@@ -3,7 +3,7 @@ Support Page of Kintai-chan App. 勤怠ちゃんアプリのサポートペー�
 
 Japanese description is under English.  
 日本語の記述は英語の次にあります。  
-Last update: October 22, 2022
+Last update: March 27, 2023
 
 　　　 <img src="https://user-images.githubusercontent.com/8732417/127726905-7c6fa973-8f36-4694-96f1-498110dfc35a.png" width="150">
 <BR>
@@ -19,12 +19,13 @@ Last update: October 22, 2022
 |1.0.1|Oct 31, 2021|・watchOS 8 Support<BR>・Fixed the app crashing when registering / editing.|
 |1.0.2|Apr 08, 2022|Minor revision|
 |1.0.3|Oct 22, 2022|・watchOS 9 Support<BR>・Multi-Post available<BR>・Fixed list not showing on watchOS 7 devices.|
+|1.0.4|Mar 27, 2023|Bug fixes and stability improvement|
 
 ## Commentary article
 
 This app is a sample app made for Qiita Advent Calendar 2019.  
 The commentary is as follows. Written in Japanese.  
-I remaked for watchOS 7 and later. Of course I use SwiftUI 2.0.  
+I remaked for watchOS 7 and later. Of course I use SwiftUI.  
 
 [https://qiita.com/MilanistaDev/items/dbc4d2c2cc4522f12972](https://qiita.com/MilanistaDev/items/dbc4d2c2cc4522f12972)
 
