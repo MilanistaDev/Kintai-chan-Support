@@ -3,7 +3,7 @@ Support Page of Kintai-chan App. 勤怠ちゃんアプリのサポートペー�
 
 Japanese description is under English.  
 日本語の記述は英語の次にあります。  
-Last update: March 27, 2023
+Last update: Jan 5, 2024
 
 　　　 <img src="https://user-images.githubusercontent.com/8732417/127726905-7c6fa973-8f36-4694-96f1-498110dfc35a.png" width="150">
 <BR>
@@ -20,6 +20,7 @@ Last update: March 27, 2023
 |1.0.2|Apr 08, 2022|Minor revision|
 |1.0.3|Oct 22, 2022|・watchOS 9 Support<BR>・Multi-Post available<BR>・Fixed list not showing on watchOS 7 devices.|
 |1.0.4|Mar 27, 2023|Bug fixes and stability improvement|
+|1.0.5|Jan 5, 2024|UI and stability improvement|
 
 ## Commentary article
 
